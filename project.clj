@@ -1,4 +1,4 @@
-(defproject automat "0.2.0-SNAPSHOT"
+(defproject org.clojars.semperos/automat "0.2.0-alpha3"
   :description ""
   :license {:name "MIT License"
             :url "http://opensource.org/licenses/MIT"}
